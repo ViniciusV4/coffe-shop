@@ -1,6 +1,6 @@
 # Coffee Shop
 <ul>
-    <li>Coffee shop é um projeto desenvolvido de cunho acadêmico. O site é uma loja de café com alguns produtos específicos.</li>
+    <li>Coffee shop é um projeto desenvolvido com cunho acadêmico. O site é uma loja de café com alguns produtos específicos.</li>
     <li>Coffee shop is a project developed with academic intent. The website is a coffee store with some specific products.</li>
 </ul>
  
