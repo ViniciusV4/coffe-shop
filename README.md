@@ -1,7 +1,9 @@
 # Coffee Shop
-*Coffee shop é um projeto desenvolvido de cunho acadêmico. O site é uma loja de café com alguns produtos específicos.
-
-*Coffee shop is a project developed with academic intent. The website is a coffee store with some specific products.
+<ul>
+    <li>Coffee shop é um projeto desenvolvido de cunho acadêmico. O site é uma loja de café com alguns produtos específicos.</li>
+    <li>Coffee shop is a project developed with academic intent. The website is a coffee store with some specific products.</li>
+</ul>
+ 
 ## Home Page:
 ![home page](https://github.com/ViniciusV4/coffe-shop/blob/main/img/site/home.png?raw=true)
 
